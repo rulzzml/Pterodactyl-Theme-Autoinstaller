@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/rulzzml/Pterodactyl-Theme-Autoinstaller/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -32,5 +32,6 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
+- Recode 2 By [ Rulzz ] (https://github.com/RulzzML)
 - Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
