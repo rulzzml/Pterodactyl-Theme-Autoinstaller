@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/rulzzml/Pterodactyl-Theme-Autoi
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : rulzz)
+ (Kode Token : pm wa.me/6285133225756)
 
 ## System Support :
 
